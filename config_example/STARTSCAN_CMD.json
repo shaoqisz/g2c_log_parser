@@ -1,0 +1,12 @@
+[
+  {
+    "name": "\u662f\u5426\u9700\u8981\u8bbe\u7f6e\u5e8a\u53c2\u6570",
+    "range": "56-57",
+    "endian": "little"
+  },
+  {
+    "name": "\u76ee\u6807\u5e8a\u7801",
+    "range": "58-59",
+    "endian": "little"
+  }
+]

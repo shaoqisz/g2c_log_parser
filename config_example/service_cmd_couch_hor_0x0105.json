@@ -1,0 +1,12 @@
+[
+  {
+    "name": "hor_target",
+    "range": "10-11",
+    "endian": "little"
+  },
+  {
+    "name": "velocity",
+    "range": "12-13",
+    "endian": "little"
+  }
+]

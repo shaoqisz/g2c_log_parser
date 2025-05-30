@@ -1,0 +1,22 @@
+[
+  {
+    "name": "target_pos",
+    "range": "12-13",
+    "endian": "little"
+  },
+  {
+    "name": "velocity",
+    "range": "14-15",
+    "endian": "little"
+  },
+  {
+    "name": "accel",
+    "range": "16-17",
+    "endian": "little"
+  },
+  {
+    "name": "jerk",
+    "range": "22-22",
+    "endian": "little"
+  }
+]
